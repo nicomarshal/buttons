@@ -1,3 +1,3 @@
 # buttons
 
-https://nicomarshal.github.io/buttons/
+[Buttons](https://nicomarshal.github.io/buttons)
