@@ -1,6 +1,6 @@
-# Componentes Útiles
+# Componentes Reutilizables
 
-[Ver Componentes Útiles](https://nicomarshal.github.io/buttons)
+[Ver Componentes Reutilizables](https://nicomarshal.github.io/buttons)
 
 Interfaz programada con JavaScript y compuesta por módulos. Cada módulo es un componente que puede ser reutilizado en algún otro proyecto.
 
