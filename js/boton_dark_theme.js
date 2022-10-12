@@ -14,11 +14,13 @@ export default function darkTheme(btn, classDark) {
 
 	const lightMode = () => {
 		$selectors.forEach(el => el.classList.remove(classDark));
+		$selectors[2].style.backgroundColor = "var(--second-color)";
 		$themeBtn.innerHTML = moon;
 		ls.setItem("theme", "light");
 	};
 	const darkMode = () => {
 		$selectors.forEach(el => el.classList.add(classDark));
+		$selectors[2].style.backgroundColor = "#303030";
 		$themeBtn.innerHTML = sun;
 		ls.setItem("theme", "dark");
 	};
